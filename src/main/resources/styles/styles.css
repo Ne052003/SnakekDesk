@@ -1,0 +1,25 @@
+.button-black-green {
+    -fx-background-color: black;
+    -fx-text-fill: green;
+    -fx-padding: 10 20;
+    -fx-font-size: 14px; 
+    -fx-font-weight: bold; 
+    -fx-border-color: green; 
+    -fx-border-width: 2px;
+}
+
+.button-black-green:hover {
+    -fx-cursor: HAND;
+    -fx-background-color: green;
+    -fx-text-fill: black;
+}
+
+.button-black-green:pressed {
+    -fx-background-color: #222;
+    -fx-text-fill: #008000;
+}
+
+.labelScore{
+    -fx-text-fill: green;
+    -fx-font-size: 20px;
+}
