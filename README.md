@@ -37,8 +37,7 @@ Snake Game is a classic arcade-style game developed in **Java** using **JavaFX**
 - **→** Move right
 
 ## 📷 Screenshots
-
-![Front Page](assets/FrontPage.pngimage.png)
+![Front Page](assets/FrontPage.png)
 ![Game Board](assets/GameBoard.png)
 ![Game Over](assets/GameOver.png)
 
